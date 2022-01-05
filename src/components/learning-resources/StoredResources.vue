@@ -4,6 +4,7 @@
       :title="res.title"
       :link="res.link"
       :description="res.description"
+      :id="res.id"
     />
   </ul>
 </template>
