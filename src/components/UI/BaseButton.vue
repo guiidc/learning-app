@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  props: ['type', 'mode', 'caption'],
+  props: ['mode', 'caption'],
 }
 </script>
 
